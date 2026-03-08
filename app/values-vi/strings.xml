@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ This file is part of LSPosed.
   ~
@@ -212,7 +213,7 @@
     <string name="settings_enable_predictive_back">Cử chỉ quay lại dự đoán</string>
     <string name="settings_enable_predictive_back_summary">Bật hỗ trợ cho cử chỉ quay lại dự đoán.</string>
     <!-- Module Repo -->
-    <string name="module_readme">Đọctôi</string>
+    <string name="module_readme">Đọc thêm</string>
     <string name="module_releases">Phát hành</string>
     <string name="module_information">Thông tin</string>
     <string name="module_information_homepage">Trang chủ</string>
