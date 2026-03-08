@@ -87,7 +87,7 @@
     <string name="logs_saving">Đang lưu nhật ký, vui lòng đợi</string>
     <string name="logs_saved">Nhật ký đã được lưu</string>
     <string name="logs_save_failed2">Thất bại khi lưu:\n%s</string>
-    <string name="logs_preparing">Đang chuẩn bị cho nhật ký, please wait</string>
+    <string name="logs_preparing">Đang chuẩn bị cho nhật ký, vui lòng đợi</string>
     <string name="logs_prepare_failed">Thất bại khi chuẩn bị:\n%s</string>
     <string name="menuClearLog">Dọn nhật ký ngay</string>
     <string name="logs_cleared">Nhật ký đã được dọn thành công.</string>
