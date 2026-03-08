@@ -108,7 +108,7 @@
     <string name="warning_installed_on_external_storage">Mô-đun này không thể được tải vì nó được cài đặt trên thẻ SD, vui lòng chuyển nó sang bộ nhớ trong.</string>
     <string name="module_uninstall">Gỡ cài đặt</string>
     <string name="module_settings">Cài đặt mô-đun</string>
-    <string name="view_in_repo">View in Repo</string>
+    <string name="view_in_repo">Xem trong Kho</string>
     <string name="module_uninstall_message">Bạn có muốn gỡ cài đặt mô-đun này?</string>
     <string name="module_uninstalled">Đã gỡ cài đặt %1$s</string>
     <string name="module_uninstall_failed">Gỡ cài đặt không thành công</string>
