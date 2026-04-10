@@ -209,6 +209,7 @@
         <item quantity="other">%d ứng dụng đã bật</item>
     </plurals>
     <string name="settings_enable_new_manager">Bật trình quản lý mới</string>
+    <string name="settings_smooth_rounding">Làm tròn mượt mà</string>
     <string name="settings_enable_new_manager_summary">Sử dụng giao diện trình quản lý dựa trên Compose kiểu MIUI mới.</string>
     <string name="settings_enable_predictive_back">Cử chỉ quay lại dự đoán</string>
     <string name="settings_enable_predictive_back_summary">Bật hỗ trợ cho cử chỉ quay lại dự đoán.</string>
