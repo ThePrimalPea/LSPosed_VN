@@ -244,6 +244,8 @@
     <string name="menu_raw_view">Xem thô</string>
 
     <!-- Theme Mode -->
+    <string name="settings_ui">Kiểu UI</string>
+    <string name="settings_ui_summary">Chọn kiểu giao diện</string>
     <string name="settings_theme">Chủ đề</string>
     <string name="settings_theme_summary">Chọn chế độ chủ đề ứng dụng</string>
     <string name="settings_theme_mode_system">Theo hệ thống</string>
