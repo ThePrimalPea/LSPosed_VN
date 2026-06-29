@@ -25,7 +25,6 @@
     <string name="Settings">הגדרות</string>
     <string name="About">אודות</string>
     <string name="module_repo">מאגר מידע</string>
-    <string name="about_view_source_code"><![CDATA[הצג קוד מקור ב-%1$s<br/> הצטרף לערוץ %2$s שלנו]]></string>
     <string name="not_installed">לא מותקן</string>
     <string name="not_install_summary">LSPosed אינו מותקן</string>
     <string name="activated">הופעל</string>
@@ -102,7 +101,7 @@
     <string name="app_version">גרסה: %1$s</string>
     <string name="use_recommended">מומלץ</string>
     <string name="use_recommended_message">בחר אפליקציות מומלצות?</string>
-    <string name="module_is_not_activated_yet">מודול LSPosed עדיין לא הופעל</string>
+    <string name="module_is_not_activated_yet">מודול Xposed עדיין לא הופעל</string>
     <string name="requested_by_module">מומלץ</string>
     <string name="update_available">עדכון זמין: %1$s</string>
     <string name="android_framework">מערכת Framework</string>

@@ -25,7 +25,6 @@
     <string name="Settings">Nastavení</string>
     <string name="About">O aplikaci</string>
     <string name="module_repo">Repozitář</string>
-    <string name="about_view_source_code"><![CDATA[Zobrazit zdrojový kód na %1$s<br/>Připojte se k našemu kanálu %2$s]]></string>
     <string name="translators" comment="Dear translators, please add your home page here following the format. There can be more than one translator. So feel free to append yourself.">https://www.instagram.com/kasi33/</string>
     <string name="not_installed">Není nainstalováno</string>
     <string name="not_install_summary">LSPosed není nainstalován</string>
@@ -117,7 +116,7 @@
     <!-- ModulesActivity and AppListActivity -->
     <string name="modules_other_app">Zobrazit v jiné aplikaci</string>
     <string name="module_app_info">Informace o aplikaci</string>
-    <string name="list_empty">&lt;unk&gt; \\\\_(&lt;unk&gt; )_\/ &lt;unk&gt;\nTady nic není</string>
+    <string name="list_empty">¯\\_(ツ)_\/¯\nTady nic není</string>
     <!-- SettingsActivity -->
     <string name="settings_group_framework">Framework</string>
     <string name="settings_disable_verbose_log">Zakázat podrobné protokoly</string>

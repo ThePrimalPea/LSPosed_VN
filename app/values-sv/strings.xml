@@ -25,7 +25,6 @@
     <string name="Settings">Inställningar</string>
     <string name="About">Om</string>
     <string name="module_repo">Förvar</string>
-    <string name="about_view_source_code"><![CDATA[Visa källkod på %1$s<br/>Gå med i vår %2$s kanal]]></string>
     <string name="translators" comment="Dear translators, please add your home page here following the format. There can be more than one translator. So feel free to append yourself.">Anton J</string>
     <string name="not_installed">Inte installerad</string>
     <string name="not_install_summary">LSPosed är inte installerat</string>
@@ -117,7 +116,7 @@
     <!-- ModulesActivity and AppListActivity -->
     <string name="modules_other_app">Visa i annan app</string>
     <string name="module_app_info">Information om appen</string>
-    <string name="list_empty">&lt;unk&gt; \\\\_(&lt;unk&gt; )_\/ &lt;unk&gt;\nIngenting här</string>
+    <string name="list_empty">¯\\_(ツ)_\/¯\nIngenting här</string>
     <!-- SettingsActivity -->
     <string name="settings_group_framework">Framework</string>
     <string name="settings_disable_verbose_log">Inaktivera utförliga loggar</string>

@@ -25,7 +25,6 @@
     <string name="Settings">Indstillinger</string>
     <string name="About">Om</string>
     <string name="module_repo">Lagre</string>
-    <string name="about_view_source_code"><![CDATA[Vis kildekode på %1$s<br/>Tilmeld dig vores %2$s kanal]]></string>
     <string name="not_installed">Ikke installeret</string>
     <string name="not_install_summary">LSPosed er ikke installeret</string>
     <string name="activated">Aktiveret</string>
@@ -116,7 +115,7 @@
     <!-- ModulesActivity and AppListActivity -->
     <string name="modules_other_app">Se i anden app</string>
     <string name="module_app_info">Oplysninger om appen</string>
-    <string name="list_empty">Spredning \\\\_(Ι)_\/ Ι\nIntet her</string>
+    <string name="list_empty">¯\\_(ツ)_\/¯\nIntet her</string>
     <!-- SettingsActivity -->
     <string name="settings_group_framework">Framework</string>
     <string name="settings_disable_verbose_log">Deaktivere udførlige logfiler</string>

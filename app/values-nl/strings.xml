@@ -25,7 +25,6 @@
     <string name="Settings">Instellingen</string>
     <string name="About">Over</string>
     <string name="module_repo">Opslagplaats</string>
-    <string name="about_view_source_code"><![CDATA[Bekijk de broncode op %1$s<br/>Sluit je aan bij onze %2$s kanaal]]></string>
     <string name="translators" comment="Dear translators, please add your home page here following the format. There can be more than one translator. So feel free to append yourself.">Pandemic-XDA</string>
     <string name="not_installed">Niet geïnstalleerd</string>
     <string name="not_install_summary">LSPosed is niet geinstalleerd</string>
@@ -103,7 +102,7 @@
     <string name="app_version">Versie: %1$s</string>
     <string name="use_recommended">Aanbevolen</string>
     <string name="use_recommended_message">Aanbevolen apps selecteren?</string>
-    <string name="module_is_not_activated_yet">LSPosed module is nog niet geactiveerd</string>
+    <string name="module_is_not_activated_yet">Xposed-module is nog niet geactiveerd</string>
     <string name="requested_by_module">Aanbevolen</string>
     <string name="update_available">Update beschikbaar: %1$s</string>
     <string name="android_framework">Systeem Framework</string>

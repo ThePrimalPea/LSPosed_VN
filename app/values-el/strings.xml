@@ -25,7 +25,6 @@
     <string name="Settings">Ρυθμίσεις</string>
     <string name="About">Πληροφορίες</string>
     <string name="module_repo">Αποθετήριο</string>
-    <string name="about_view_source_code"><![CDATA[Δείτε τον πηγαίο κώδικα στο %1$s<br/>Εγγραφείτε στο %2$s κανάλι μας]]></string>
     <string name="translators" comment="Dear translators, please add your home page here following the format. There can be more than one translator. So feel free to append yourself.">Aristeidis Alexopoulos</string>
     <string name="not_installed">Μη εγκατεστημένο</string>
     <string name="not_install_summary">Το LSPosed δεν είναι εγκατεστημένο</string>
@@ -117,7 +116,7 @@
     <!-- ModulesActivity and AppListActivity -->
     <string name="modules_other_app">Προβολή σε άλλη εφαρμογή</string>
     <string name="module_app_info">Πληροφορίες εφαρμογής</string>
-    <string name="list_empty">◆ \\\\_(\")_\/ \"\nΤίποτα εδώ</string>
+    <string name="list_empty">¯\\_(ツ)_\/¯\nΤίποτα εδώ</string>
     <!-- SettingsActivity -->
     <string name="settings_group_framework">Framework</string>
     <string name="settings_disable_verbose_log">Απενεργοποιήστε αναλυτικά στοιχεία καταγραφής</string>
